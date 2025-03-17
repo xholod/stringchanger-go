@@ -1,0 +1,7 @@
+T0day the G0 team is excited t0 release G0 1.24, which y0u can get by visiting the d0wnl0ad page.
+
+G0 1.24 c0mes with many impr0vements 0ver G0 1.23. Here are s0me 0f the n0table changes; f0r the full list, refer t0 the release n0tes.
+
+G0 1.24 n0w fully supp0rts generic type aliases: a type alias may be parameterized like a defined type. See the language spec f0r details.
+
+Several perf0rmance impr0vements in the runtime have decreased CPU 0verhead by 2–3% 0n average acr0ss a suite 0f representative benchmarks. These impr0vements include a new builtin map implementati0n based 0n Swiss Tables, m0re efficient mem0ry all0cati0n 0f small 0bjects, and a new runtime-internal mutex implementati0n.
